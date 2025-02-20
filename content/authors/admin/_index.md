@@ -2,8 +2,8 @@
 # Display name
 title: Eduardo Brandao
 
-# # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# Name pronunciation (optional)
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Eduardo
@@ -11,7 +11,7 @@ last_name: Brandao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
