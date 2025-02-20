@@ -8,9 +8,9 @@ type: page
 
 | Course Name       | Link |
 |-------------------|------|
-| [Course 101](https://moodle.example.com/course101) | [Access Course](https://moodle.example.com/course101) |
-| [Course 102](https://moodle.example.com/course102) | [Access Course](https://moodle.example.com/course102) |
-| [Course 103](https://moodle.example.com/course103) | [Access Course](https://moodle.example.com/course103) |
+|Mathématiques pour l'ingénieur (1)| [Access Course](https://mootse.telecom-st-etienne.fr/course/view.php?id=309) |
+|Mathématiques pour l'ingénieur (2)| [Access Course](https://mootse.telecom-st-etienne.fr/course/view.php?id=381) |
+|Big Data Project| [Access Course](https://mootse.telecom-st-etienne.fr/course/view.php?id=953)|
 
 
 <!-- ---
