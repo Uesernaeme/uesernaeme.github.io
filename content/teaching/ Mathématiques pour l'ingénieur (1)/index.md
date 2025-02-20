@@ -1,17 +1,18 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Mathématiques pour l'ingénieur (1)
+summary: ''#Easily learn Python in 10 minutes!
+date: 2025-10-24
 type: docs
 math: false
-tags:
-  - Python
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+# tags:
+#   - 
+# image:
+#   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+[Mootse: Mathématiques pour l'ingénieur (1)](https://mootse.telecom-st-etienne.fr/course/view.php?id=309)
 
+<!-- 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
@@ -137,4 +138,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
