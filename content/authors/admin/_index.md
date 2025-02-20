@@ -20,7 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor at Télécom Saint-Etienne and Hubert Curien Lab.\Member of the MALICE Inria team.
+role: |
+  Assistant Professor at Télécom Saint-Etienne and Hubert Curien Lab.
+  Member of the MALICE Inria team.
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
