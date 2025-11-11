@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: >
-  Assistant Professor at Télécom Saint-Etienne and Hubert Curien Lab.<br>
+  Associate Professor at Télécom Saint-Etienne and Hubert Curien Lab.<br>
   Member of the MALICE Inria team.
 
 # Organizations/Affiliations to display in Biography blox
@@ -184,4 +184,4 @@ interests:
 
 ## About Me
 
-I am an Assistant Professor at Télécom Saint-Etienne and Hubert Curien Lab since September 2024. I am a member of the MALICE Inria team.
+I am an Associate Professor at Télécom Saint-Etienne and Hubert Curien Lab since September 2024. I am a member of the MALICE Inria team.
